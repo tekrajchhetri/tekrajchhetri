@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tek Raj Chhetri, PhD  
 
-🌐 [Website](https://tekrajchhetri.com) | 💼 [LinkedIn](https://www.linkedin.com/in/tekrajchhetri) | 📧 [Email Me](mailto:tekraj.chhetri@cair-nepal.org)  
+🌐 [Website](https://tekrajchhetri.com) | 📖 [Google Scholar](https://scholar.google.com/citations?user=QfpwmIIAAAAJ&hl=en) | 💼 [LinkedIn](https://www.linkedin.com/in/tekrajchhetri) | 📧 [Email Me](mailto:tekraj.chhetri@cair-nepal.org)  
 
 I'm a researcher, developer, and educator passionate about solving complex problems through innovative AI and semantic web technologies, such as knowledge graphs and sharing knowledge with others. 
 Currently, I work as a **Postdoctoral Associate** at the **Massachusetts Institute of Technology (MIT)**, where I lead the development of [BrainKB](https://sensein.group/brainkbdocs), a large-scale neuroscience knowledge graph designed to empower collaborative research and evidence-based decision-making.  
