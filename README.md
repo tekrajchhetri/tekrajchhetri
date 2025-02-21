@@ -19,7 +19,8 @@ With a PhD in Computer Science and extensive experience in developing innovative
 - **BrainKB**, a large-scale neuroscience knowledge graph infrastructure designed to facilitate collaborative research, evidence-based decision-making, and reproducibility in neuroscience.  
 - Founding and directing **CAIR-Nepal**, an AI research organization empowering Nepalese youth through research opportunities, community engagement, and innovations in Responsible AI and digital healthcare.  
 -  Designing and implementing adaptive graph systems that account for evolving knowledge, seamlessly integrating large language models (LLMs) to enable real-time knowledge extraction, verification, and analytics pipelines.
- 
+## 🌟 GitHub Stats  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tekrajchhetri&theme=ambient_gradient&hide_progress=true&langs_count=15&layout=donut) 
 
 💡 Let’s collaborate to build impactful solutions at the intersection of AI, knowledge graphs, and data privacy!  
 
