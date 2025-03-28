@@ -15,7 +15,7 @@ With a PhD in Computer Science and extensive experience in developing innovative
 - **Data Privacy & Management**: Expertise in FAIR data sharing, GDPR compliance, dynamic consent management, and privacy-preserving frameworks using semantic modeling and ODRL.  
 - **Distributed Systems & IoT**: Applied research in distributed systems, edge intelligence, and IoT for real-time data analysis and system optimization.
 
-## 🌟 What I am Working On  
+## 🌟 What I am Working On?  
 - **BrainKB**, a large-scale neuroscience knowledge graph infrastructure designed to facilitate collaborative research, evidence-based decision-making, and reproducibility in neuroscience.  
 - Founding and directing **CAIR-Nepal**, an AI research organization empowering Nepalese youth through research opportunities, community engagement, and innovations in Responsible AI and digital healthcare.  
 -  Designing and implementing adaptive graph systems that account for evolving knowledge, seamlessly integrating large language models (LLMs) to enable real-time knowledge extraction, verification, and analytics pipelines.
