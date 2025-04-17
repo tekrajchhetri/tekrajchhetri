@@ -22,6 +22,9 @@ With a PhD in Computer Science and extensive experience in developing innovative
 ## 🌟 GitHub Stats  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekrajchhetri&hide_rank=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tekrajchhetri&theme=ambient_gradient&hide_progress=true&langs_count=10&layout=donut)  
 
+ ## 🚀 My Current Tech Stack
+<img width="1312" alt="Screenshot 2025-04-17 at 2 31 23 AM" src="https://github.com/user-attachments/assets/e33c92e4-778e-4e36-b494-210ce33873fb" />
+
 💡 Let’s collaborate to build impactful solutions at the intersection of AI, knowledge graphs, and data privacy!  
 
 🔍 I am also open to exploring opportunities that align with my expertise.  
